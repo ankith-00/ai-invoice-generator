@@ -1,0 +1,153 @@
+NOTE : 
+    ~ THIS IS DUMMY DATA [ YOU CAN REPLACE THIS WITH YOUR 'PRODUCT DATA' ] 
+
+
+[
+    {
+        "name": "Augmentin 625 Duo Tablet",
+        "mrp": "₹223.42",
+        "description": "strip of 10 tablets",
+        "seller": "Glaxo SmithKline Pharmaceuticals Ltd",
+        "drug": "Amoxycillin (500mg) + Clavulanic Acid (125mg)"
+    },
+    {
+        "name": "Azithral 500 Tablet",
+        "mrp": "₹132.36",
+        "description": "strip of 5 tablets",
+        "seller": "Alembic Pharmaceuticals Ltd",
+        "drug": "Azithromycin (500mg)"
+    },
+    {
+        "name": "Ascoril LS Syrup",
+        "mrp": "₹118",
+        "description": "bottle of 100 ml Syrup",
+        "seller": "Glenmark Pharmaceuticals Ltd",
+        "drug": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)"
+    },
+    {
+        "name": "Allegra 120mg Tablet",
+        "mrp": "₹218.81",
+        "description": "strip of 10 tablets",
+        "seller": "Sanofi India Ltd",
+        "drug": "Fexofenadine (120mg)"
+    },
+    {
+        "name": "Avil 25 Tablet",
+        "mrp": "₹10.96",
+        "description": "strip of 15 tablets",
+        "seller": "Sanofi India Ltd",
+        "drug": "Pheniramine (25mg)"
+    },
+    {
+        "name": "Allegra-M Tablet",
+        "mrp": "₹251.3",
+        "description": "strip of 10 tablets",
+        "seller": "Sanofi India Ltd",
+        "drug": "Montelukast (10mg) + Fexofenadine (120mg)"
+    },
+    {
+        "name": "Ascoril D Plus Syrup Sugar Free",
+        "mrp": "₹129",
+        "description": "bottle of 100 ml Syrup",
+        "seller": "Glenmark Pharmaceuticals Ltd",
+        "drug": "Phenylephrine (5mg) + Chlorpheniramine Maleate (2mg) + Dextromethorphan Hydrobromide (10mg)"
+    },
+    {
+        "name": "Azee 500 Tablet",
+        "mrp": "₹132.38",
+        "description": "strip of 5 tablets",
+        "seller": "Cipla Ltd",
+        "drug": "Azithromycin (500mg)"
+    },
+    {
+        "name": "Atarax 25mg Tablet",
+        "mrp": "₹85.5",
+        "description": "strip of 15 tablets",
+        "seller": "Dr Reddy's Laboratories Ltd",
+        "drug": "Hydroxyzine (25mg)"
+    },
+    {
+        "name": "Amoxyclav 625 Tablet",
+        "mrp": "₹223.27",
+        "description": "strip of 10 tablets",
+        "seller": "Abbott",
+        "drug": "Amoxycillin (500mg) + Clavulanic Acid (125mg)"
+    },
+    {
+        "name": "Alex Syrup",
+        "mrp": "₹129",
+        "description": "bottle of 100 ml Syrup",
+        "seller": "Glenmark Pharmaceuticals Ltd",
+        "drug": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)"
+    },
+    {
+        "name": "Aciloc 150 Tablet",
+        "mrp": "₹40.94",
+        "description": "strip of 30 tablets",
+        "seller": "Cadila Pharmaceuticals Ltd",
+        "drug": "Ranitidine (150mg)"
+    },
+    {
+        "name": "Arkamin Tablet",
+        "mrp": "₹72.65",
+        "description": "strip of 30 tablets",
+        "seller": "Torrent Pharmaceuticals Ltd",
+        "drug": "Clonidine (100mcg)"
+    },
+    {
+        "name": "Ambrodil-S Syrup",
+        "mrp": "₹30.2",
+        "description": "bottle of 100 ml Syrup",
+        "seller": "Aristo Pharmaceuticals Pvt Ltd",
+        "drug": "Ambroxol (15mg/5ml) + Salbutamol (1mg/5ml)"
+    },
+    {
+        "name": "Anovate Cream",
+        "mrp": "₹134.2",
+        "description": "tube of 20 gm Cream",
+        "seller": "USV Ltd",
+        "drug": "Phenylephrine (0.10% w/w) + Beclometasone (0.025% w/w) + Lidocaine (2.50% w/w)"
+    },
+    {
+        "name": "Augmentin Duo Oral Suspension",
+        "mrp": "₹67.2",
+        "description": "bottle of 30 ml Oral Suspension",
+        "seller": "Glaxo SmithKline Pharmaceuticals Ltd",
+        "drug": "Amoxycillin (200mg) + Clavulanic Acid (28.5mg)"
+    },
+    {
+        "name": "Asthakind-DX Syrup Sugar Free",
+        "mrp": "₹70.4",
+        "description": "bottle of 60 ml Syrup",
+        "seller": "Mankind Pharma Ltd",
+        "drug": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (15mg/5ml)"
+    },
+    {
+        "name": "Avomine Tablet",
+        "mrp": "₹55.98",
+        "description": "strip of 10 tablets",
+        "seller": "Abbott",
+        "drug": "Promethazine (25mg)"
+    },
+    {
+        "name": "Allegra 180mg Tablet",
+        "mrp": "₹251.2",
+        "description": "strip of 10 tablets",
+        "seller": "Sanofi India Ltd",
+        "drug": "Fexofenadine (180mg)"
+    },
+    {
+        "name": "Altraday Capsule SR",
+        "mrp": "₹128",
+        "description": "strip of 10 capsule sr",
+        "seller": "Sun Pharmaceutical Industries Ltd",
+        "drug": "Aceclofenac (200mg) + Rabeprazole (20mg)"
+    },
+    {
+        "name": "Asthalin Syrup",
+        "mrp": "₹19.04",
+        "description": "bottle of 100 ml Syrup",
+        "seller": "Cipla Ltd",
+        "drug": "Salbutamol (2mg/5ml)"
+    }
+]
