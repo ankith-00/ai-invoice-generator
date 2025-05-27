@@ -12,8 +12,8 @@ load_dotenv()
 # - - - - CREATING 'GROQ' CLIENT - - - - #
 client = Groq()
 
-Customer_Data_FilePath = 'resource/CustomerData.json'
-Product_Data_filePath = 'resource/ProductList.json'
+Customer_Data_FilePath = 'CustomerData.json'
+Product_Data_filePath = 'ProductList.json'
 
 
 
