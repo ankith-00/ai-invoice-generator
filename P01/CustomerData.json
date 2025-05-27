@@ -1,0 +1,76 @@
+NOTE :
+   ~ THIS IS DUMMY DATA [ YOU CAN REPLACE WITH YOUR 'CUSTOMER DATA' ]
+
+
+[
+    {
+        "customerId": 1,
+        "name": "Aarav Sharma",
+        "address": "123 Green Street, Bengaluru, Karnataka, India",
+        "phone": "+91-9876543210",
+        "email": "aarav.sharma@example.com"
+    },
+    {
+        "customerId": 2,
+        "name": "Meera Patel",
+        "address": "45 Lake Road, Ahmedabad, Gujarat, India",
+        "phone": "+91-8765432109",
+        "email": "meera.patel@example.com"
+    },
+    {
+        "customerId": 3,
+        "name": "Rajesh Gupta",
+        "address": "77 North Avenue, Kolkata, West Bengal, India",
+        "phone": "+91-7654321098",
+        "email": "rajesh.gupta@example.com"
+    },
+    {
+        "customerId": 4,
+        "name": "Sneha Reddy",
+        "address": "92 Sunrise Apartments, Hyderabad, Telangana, India",
+        "phone": "+91-6543210987",
+        "email": "sneha.reddy@example.com"
+    },
+    {
+        "customerId": 5,
+        "name": "Kabir Joshi",
+        "address": "33 Hilltop Lane, Pune, Maharashtra, India",
+        "phone": "+91-5432109876",
+        "email": "kabir.joshi@example.com"
+    },
+    {
+        "customerId": 6,
+        "name": "Ananya Verma",
+        "address": "88 Maple Street, Lucknow, Uttar Pradesh, India",
+        "phone": "+91-4321098765",
+        "email": "ananya.verma@example.com"
+    },
+    {
+        "customerId": 7,
+        "name": "Ishaan Desai",
+        "address": "5 Riverfront Way, Surat, Gujarat, India",
+        "phone": "+91-3210987654",
+        "email": "ishaan.desai@example.com"
+    },
+    {
+        "customerId": 8,
+        "name": "Pooja Rao",
+        "address": "99 Ocean View, Chennai, Tamil Nadu, India",
+        "phone": "+91-2109876543",
+        "email": "pooja.rao@example.com"
+    },
+    {
+        "customerId": 9,
+        "name": "Vikram Singh",
+        "address": "11 Forest Drive, Jaipur, Rajasthan, India",
+        "phone": "+91-1098765432",
+        "email": "vikram.singh@example.com"
+    },
+    {
+        "customerId": 10,
+        "name": "Aditi Mukherjee",
+        "address": "67 Pearl Avenue, Mumbai, Maharashtra, India",
+        "phone": "+91-0987654321",
+        "email": "aditi.mukherjee@example.com"
+    }
+]
